@@ -38,7 +38,7 @@ Installation
 
 Clone the repository:
 
-git clone https://github.com/naniankala/android-converter.git
+git clone https://github.com/SETHROLLINSISMYGOAT/android-converter.git
 
 Open the project in Android Studio.
 
