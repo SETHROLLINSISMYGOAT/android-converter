@@ -59,7 +59,8 @@ For currency conversions, ensure an active internet connection.
 Screenshots
 ![1721498604919](https://github.com/user-attachments/assets/efee1732-6516-457b-99f4-70896e3b738a)
 ![image](https://github.com/user-attachments/assets/21548e54-7e14-49ec-b4e2-117b4766b4db)
-![Uploading image.png…]()
+![1721498605313](https://github.com/user-attachments/assets/55d9c23c-a9fc-42f4-b746-5b8f3f5fcb7f)
+
 
 Contribution
 
