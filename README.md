@@ -55,6 +55,12 @@ Enter the value and choose the target unit.
 Get instant results with accurate calculations.
 
 For currency conversions, ensure an active internet connection.
+
+Screenshots
+![1721498604919](https://github.com/user-attachments/assets/efee1732-6516-457b-99f4-70896e3b738a)
+![image](https://github.com/user-attachments/assets/21548e54-7e14-49ec-b4e2-117b4766b4db)
+![Uploading image.png…]()
+
 Contribution
 
 Contributions are welcome! Follow these steps:
@@ -74,5 +80,5 @@ This project is licensed under the MIT License.
 Contact
 
 📧 [siddhantpathak128@gmail.com]🐙 GitHub: https://github.com/SETHROLLINSISMYGOAT
-![1721498604919](https://github.com/user-attachments/assets/ca9e9f8e-3f0c-451b-9774-075b66469317)
+
 
